@@ -12,6 +12,7 @@ struct Circular: View {
     let backgroundColor: Color
     let foregroundColor: Color
     let percentage: Double
+    //asa
     
     var body: some View {
         GeometryReader{ geomery in
