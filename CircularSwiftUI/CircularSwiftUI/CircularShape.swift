@@ -15,7 +15,7 @@ struct CircularShape: Shape {
     var animatableData: Double {
         get {
             return percent
-            //7
+            //73
         }
         set{
             percent = newValue
