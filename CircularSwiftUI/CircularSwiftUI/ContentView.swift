@@ -1,5 +1,5 @@
 import SwiftUI
-//kd
+//k
 struct ContentView: View {
     @State var firstCirclePercentage: Double = 50
     @State var secondCirclePercentage: Double = 75
